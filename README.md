@@ -22,14 +22,14 @@ It analyzes code, finds errors, suggests improvements, and explains step-by-step
    ```bash
    git clone https://github.com/your-username/code-ninja.git
    cd code-ninja
-2.Install dependencies:
+##2.Install dependencies:
 
 npm install
 
-3.Add your Gemini API key in .env:
+##3.Add your Gemini API key in .env:
 
 VITE_GEMINI_API_KEY=your_api_key_here
 
-4.Start the dev server:
+##4.Start the dev server:
 
 npm run dev
