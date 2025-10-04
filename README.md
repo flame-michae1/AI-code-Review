@@ -1,22 +1,22 @@
-Code Ninja
+# Code Ninja 🥷💻
 
+Code Ninja is an AI-powered code review tool that helps developers write better code.  
+It analyzes code, finds errors, suggests improvements, and explains step-by-step fixes using Google Gemini API.  
 
-Code Ninja is a modern, interactive code review tool built with React. It features a dark-themed, user-friendly interface, AI-powered code review, and a dynamic "Matrix" code rain background for that extra developer vibe.
+## ✨ Features
+- 🔍 Code analysis with AI  
+- 🐞 Error detection & debugging suggestions  
+- 📊 Code quality rating  
+- 📝 Step-by-step explanations  
+- ⚡ Fast & interactive UI built with React  
 
-Features
-Monaco Editor with support for 20+ programming languages
+## 🛠 Tech Stack
+- **Frontend**: React + Vite  
+- **UI Styling**: Tailwind CSS  
+- **AI Backend**: Google Gemini API  
+- **Hosting**: (You can add Netlify/Vercel if you plan to deploy)
 
-Matrix-style animated falling code background
-
-Dark theme, custom select, and beautiful UI
-
-AI-powered code review using the Gemini API (Google GenAI)
-
-Markdown-rendered, detailed review responses
-
-Responsive layout for desktop screens
-
-Getting Started
+## 🚀 Getting Started
 1.Clone the repository
 
 ```bash
