@@ -11,10 +11,12 @@ It analyzes code, finds errors, suggests improvements, and explains step-by-step
 - ⚡ Fast & interactive UI built with React  
 
 ## 🛠 Tech Stack
-- **Frontend**: React + Vite  
-- **UI Styling**: Tailwind CSS  
-- **AI Backend**: Google Gemini API  
-- **Hosting**: (You can add Netlify/Vercel if you plan to deploy)
+- ## React JS (Tech)
+- ## Tailwind CSS (Tech)
+- ## Gemini AI API (Tech)
+- ## React Monaco Editor (Tool)
+- ## React Spinners (Tool)
+- ## React Markdown (Tool) 
 
 ## 🚀 Getting Started
 1.Clone the repository
