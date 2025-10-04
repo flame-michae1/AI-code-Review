@@ -37,7 +37,7 @@ Replace the placeholder in the code with your own key for AI-powered reviews.
 ```bash
 npm run dev
 ```
-The app runs locally at bash http://localhost:3000.
+The app runs locally at bash http://localhost:5173.
 
 Usage
 Select your programming language from the dropdown.
