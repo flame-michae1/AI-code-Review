@@ -1,4 +1,6 @@
 Code Ninja
+
+
 Code Ninja is a modern, interactive code review tool built with React. It features a dark-themed, user-friendly interface, AI-powered code review, and a dynamic "Matrix" code rain background for that extra developer vibe.
 
 Features
